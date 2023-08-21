@@ -1,0 +1,21 @@
+{
+  "name": "serikadarkmodified",
+  "displayName": "SerikaDarkModified",
+  "description": "Modified Serika Dark with dark button text on highlighted buttons and other tweaks",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Modified Serkia Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Modified Serkia Dark-color-theme.json"
+      }
+    ]
+  }
+}
