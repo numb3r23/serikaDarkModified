@@ -486,7 +486,7 @@
 			"scope": "markup.changed",
 			"settings": {
 				"fontStyle": "",
-				"foreground": "#CB4B16"
+				"foreground": "#E2CD14"
 			}
 		},
 		// diff: inserted
@@ -498,6 +498,7 @@
 			}
 		},
 		// --- Markup
+		// Quote
 		{
 			"name": "Markup Quote",
 			"scope": "markup.quote",
@@ -505,6 +506,7 @@
 				"foreground": "#859900"
 			}
 		},
+		// Lists
 		{
 			"name": "Markup Lists",
 			"scope": "markup.list",
@@ -512,6 +514,7 @@
 				"foreground": "#B58900"
 			}
 		},
+		// Styling
 		{
 			"name": "Markup Styling",
 			"scope": [
@@ -522,6 +525,7 @@
 				"foreground": "#D33682"
 			}
 		},
+		// Strong / bold
 		{
 			"name": "Markup: Strong",
 			"scope": "markup.bold",
@@ -529,6 +533,7 @@
 				"fontStyle": "bold"
 			}
 		},
+		// Emphasis / italic
 		{
 			"name": "Markup: Emphasis",
 			"scope": "markup.italic",
@@ -536,12 +541,14 @@
 				"fontStyle": "italic"
 			}
 		},
+		// Strikethrough
 		{
 			"scope": "markup.strikethrough",
 			"settings": {
 				"fontStyle": "strikethrough"
 			}
 		},
+		// Inline
 		{
 			"name": "Markup Inline",
 			"scope": "markup.inline.raw",
@@ -550,6 +557,7 @@
 				"foreground": "#2AA198"
 			}
 		},
+		// Headings
 		{
 			"name": "Markup Headings",
 			"scope": "markup.heading",
@@ -558,6 +566,7 @@
 				"foreground": "#268BD2"
 			}
 		},
+		// Setext Header
 		{
 			"name": "Markup Setext Header",
 			"scope": "markup.heading.setext",
