@@ -10,4 +10,4 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - UI Color theme (modified original theme)
 - Semantic syntax highlighting
 - diff colors
-
+- markup colors
